@@ -1,0 +1,17 @@
+Realiza tu curriculum usando HTML debes incluir los siguientes datos. Deben usar HTML, CSS y JavaScript.  
+Debe quedar decente y por ahora no es valido usar ningún framework(sass, bootstrap, jquery, material, angular, react, etc) 
+
+Foto Seria 2x2
+Nombre
+Apellido
+Correo
+Estudios Realizados.
+Idiomas que maneja (con su banderita).
+Sus 3 series, películas, libros o videojuegos favoritos, coloque su portada. Al hacer click en la portada de uno de ellos ,nos llevara a una pagina (o vista) nueva donde veremos un video que trate sobre eso.. y debajo mostraras un comentario de porque elegiste esta serie, película, libro o videojuego.
+Link para chatear por telegram.
+Link para chatear por WhastApp
+Un comentario de que tan facil fue realizar esta tarea. 
+Opcion para calcular monto a pagar en el itla. Al hacer click aqui.. levara al usuario a otra pagina. Donde va a digitar la cantidad de créditos que lleva y esta pagina nos dira cuanto debemos de pagar en ITLA. 
+Comprima su tarea en formato zip y subalo por esta via.. si sube la tarea en un formato difente a ZIP perdera el 50% de su valor. 
+
+IMPORTANTE: QUien utilice algún truco o plantilla para hacer esta tarea automáticamente ganara -10 puntos en la asignatura.
